@@ -1,11 +1,3 @@
-﻿/* 
- * Copyright 2018, Raahul Natarrajan, All Rights Reserved.
- * Z Forward/Backward, Y Up/Down, X Right/Left 
- * Unity Axes for rotation
- * Send Arduino Input for each hand separated by brackets
- * Format:
- * <handL></handL>
- */
 
 
 using System.Collections;
